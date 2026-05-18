@@ -9,7 +9,7 @@
 
 # 👩🏻‍💻Rodrigo Ferreira Leandro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Prazer, meu nome é Rodrigo Ferreira Leandro. Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de evoluir, aprimorando meus conhecimentos na área de programação e tecnologia.
 <p align="left">
