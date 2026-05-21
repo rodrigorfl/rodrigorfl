@@ -89,22 +89,7 @@ Prazer, meu nome é Rodrigo Ferreira Leandro. Sou estudante de Ciência da Compu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Node.JS" 
-    title="Node.JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Node.JS/Node.JS-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Java/Java-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
